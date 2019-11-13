@@ -1,0 +1,13 @@
+{
+  "name": "git-stract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "satoruk <koyanagi3106@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
